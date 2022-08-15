@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" modified="2022-08-15T09:32:29.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4l_TAWjqsTxQuf6US_5t" version="20.2.3" type="github">
+  <diagram id="hiYGzyq-8OioGBfyJT4j" name="Page-1">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="9Qm5W9th59WcaweSGVDW-6">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qm5W9th59WcaweSGVDW-1" target="9Qm5W9th59WcaweSGVDW-2">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="404" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sqs;" vertex="1" parent="1">
+          <mxGeometry x="404" y="410" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9Qm5W9th59WcaweSGVDW-2" target="9Qm5W9th59WcaweSGVDW-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="320" as="sourcePoint" />
+            <mxPoint x="264" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qm5W9th59WcaweSGVDW-3" target="9Qm5W9th59WcaweSGVDW-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="309" as="sourcePoint" />
+            <mxPoint x="414" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-9" value="Auth Handler" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="163" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-11" value="API Gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="194" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-12" value="Business Process Lamdba&lt;br&gt;(Inward Proxy Resolution)&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-13" value="RPP SQS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="488" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="257" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9Qm5W9th59WcaweSGVDW-3" target="9Qm5W9th59WcaweSGVDW-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="309" as="sourcePoint" />
+            <mxPoint x="414" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qm5W9th59WcaweSGVDW-3" target="9Qm5W9th59WcaweSGVDW-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="492" y="309" as="sourcePoint" />
+            <mxPoint x="720" y="307.7045454545455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-20" value="Audit" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="717" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-21" value="Message cache" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687" y="481" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qm5W9th59WcaweSGVDW-22" value="&lt;ul&gt;&lt;li&gt;AWS Lambda Authorizer is responsible for both authentication and authorization of the API Gateway using a lambda function&lt;/li&gt;&lt;li&gt;I will configure a lambda function&lt;/li&gt;&lt;li&gt;I will attach the lambda Authorizer to the API Gateway&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="530" width="830" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
